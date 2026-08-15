@@ -1,0 +1,6311 @@
+[
+ {
+  "prompt": "viết bài thơ lục bát 4 câu về mùa xuân",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu về mùa xuân",
+   "số câu": 4,
+   "từ khoá": [
+    "mùa",
+    "xuân"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "áo xưa mùa xuân đến rồi\nthôn quê đón nắng rực trời ngời ngời\ntrái tim ai cũng thấy vui\ntình yêu đôi lứa tựa mây trôi trôi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 0.0,
+     "overall": 63.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "áo xưa mùa xuân đến rồi",
+       "syllables": [
+        "áo",
+        "xưa",
+        "mùa",
+        "xuân",
+        "đến",
+        "rồi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thôn quê đón nắng rực trời ngời ngời",
+       "syllables": [
+        "thôn",
+        "quê",
+        "đón",
+        "nắng",
+        "rực",
+        "trời",
+        "ngời",
+        "ngời"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "trái tim ai cũng thấy vui",
+       "syllables": [
+        "trái",
+        "tim",
+        "ai",
+        "cũng",
+        "thấy",
+        "vui"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình yêu đôi lứa tựa mây trôi trôi",
+       "syllables": [
+        "tình",
+        "yêu",
+        "đôi",
+        "lứa",
+        "tựa",
+        "mây",
+        "trôi",
+        "trôi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ấ hợ ơi có lẽ người\nkhông quen gì lắm với thơ lục bát\nthử sáng tác một bài ngắn\nviết về mùa xuân cho vui đấy mà",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ấ hợ ơi có lẽ người",
+       "syllables": [
+        "ấ",
+        "hợ",
+        "ơi",
+        "có",
+        "lẽ",
+        "người"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "không quen gì lắm với thơ lục bát",
+       "syllables": [
+        "không",
+        "quen",
+        "gì",
+        "lắm",
+        "với",
+        "thơ",
+        "lục",
+        "bát"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "thử sáng tác một bài ngắn",
+       "syllables": [
+        "thử",
+        "sáng",
+        "tác",
+        "một",
+        "bài",
+        "ngắn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "viết về mùa xuân cho vui đấy mà",
+       "syllables": [
+        "viết",
+        "về",
+        "mùa",
+        "xuân",
+        "cho",
+        "vui",
+        "đấy",
+        "mà"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổ mang chàm nổ lực lên\nhỏa hoạn rộn ràng tràn ngọn núi xanh\nsớm mai tươi thắm sắc ho\nchính đông tháng giêng khoe nở muôn ho",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổ mang chàm nổ lực lên",
+       "syllables": [
+        "hổ",
+        "mang",
+        "chàm",
+        "nổ",
+        "lực",
+        "lên"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏa hoạn rộn ràng tràn ngọn núi xanh",
+       "syllables": [
+        "hỏa",
+        "hoạn",
+        "rộn",
+        "ràng",
+        "tràn",
+        "ngọn",
+        "núi",
+        "xanh"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "sớm mai tươi thắm sắc ho",
+       "syllables": [
+        "sớm",
+        "mai",
+        "tươi",
+        "thắm",
+        "sắc",
+        "ho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chính đông tháng giêng khoe nở muôn ho",
+       "syllables": [
+        "chính",
+        "đông",
+        "tháng",
+        "giêng",
+        "khoe",
+        "nở",
+        "muôn",
+        "ho"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng hổng hổng hổng hổng hổ\nchim ca rộn rã giữa đồng xanh xanh\nmùa xuân đến rồi hoa nở\ntừng mầm non nảy nở đơm bông đỏ",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng hổng hổng hổng hổng hổ",
+       "syllables": [
+        "hổng",
+        "hổng",
+        "hổng",
+        "hổng",
+        "hổng",
+        "hổ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chim ca rộn rã giữa đồng xanh xanh",
+       "syllables": [
+        "chim",
+        "ca",
+        "rộn",
+        "rã",
+        "giữa",
+        "đồng",
+        "xanh",
+        "xanh"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "mùa xuân đến rồi hoa nở",
+       "syllables": [
+        "mùa",
+        "xuân",
+        "đến",
+        "rồi",
+        "hoa",
+        "nở"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "từng mầm non nảy nở đơm bông đỏ",
+       "syllables": [
+        "từng",
+        "mầm",
+        "non",
+        "nảy",
+        "nở",
+        "đơm",
+        "bông",
+        "đỏ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu rượi xuân sang nở rộ\nnắng vàng nhuộm nắng trời hoa rơi ngát\nđồi xa xanh mướt cỏ xanh\nđêm trăng thầm thì gọi hồn đất xưa",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi xuân sang nở rộ",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "xuân",
+        "sang",
+        "nở",
+        "rộ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nắng vàng nhuộm nắng trời hoa rơi ngát",
+       "syllables": [
+        "nắng",
+        "vàng",
+        "nhuộm",
+        "nắng",
+        "trời",
+        "hoa",
+        "rơi",
+        "ngát"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đồi xa xanh mướt cỏ xanh",
+       "syllables": [
+        "đồi",
+        "xa",
+        "xanh",
+        "mướt",
+        "cỏ",
+        "xanh"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đêm trăng thầm thì gọi hồn đất xưa",
+       "syllables": [
+        "đêm",
+        "trăng",
+        "thầm",
+        "thì",
+        "gọi",
+        "hồn",
+        "đất",
+        "xưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hởn hồi năm cũ đã xa\nxuân sang lại nhớ hoa cành hót nghe\ntrời thanh nắng rực trời xanh\nsông dài dạt dào khói mây nhẹ nhàng",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 0.0,
+     "overall": 67.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hởn hồi năm cũ đã xa",
+       "syllables": [
+        "hởn",
+        "hồi",
+        "năm",
+        "cũ",
+        "đã",
+        "xa"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "xuân sang lại nhớ hoa cành hót nghe",
+       "syllables": [
+        "xuân",
+        "sang",
+        "lại",
+        "nhớ",
+        "hoa",
+        "cành",
+        "hót",
+        "nghe"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "trời thanh nắng rực trời xanh",
+       "syllables": [
+        "trời",
+        "thanh",
+        "nắng",
+        "rực",
+        "trời",
+        "xanh"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sông dài dạt dào khói mây nhẹ nhàng",
+       "syllables": [
+        "sông",
+        "dài",
+        "dạt",
+        "dào",
+        "khói",
+        "mây",
+        "nhẹ",
+        "nhàng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn nghe gió thổi bay\nnắng vàng rực rỡ trải dài xuân sang\nmây trôi nhẹ nhàng xanh bi\nthái bình như cảnh đất đai tháng ba",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 0.0,
+     "overall": 65.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn nghe gió thổi bay",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "nghe",
+        "gió",
+        "thổi",
+        "bay"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nắng vàng rực rỡ trải dài xuân sang",
+       "syllables": [
+        "nắng",
+        "vàng",
+        "rực",
+        "rỡ",
+        "trải",
+        "dài",
+        "xuân",
+        "sang"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "mây trôi nhẹ nhàng xanh bi",
+       "syllables": [
+        "mây",
+        "trôi",
+        "nhẹ",
+        "nhàng",
+        "xanh",
+        "bi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thái bình như cảnh đất đai tháng ba",
+       "syllables": [
+        "thái",
+        "bình",
+        "như",
+        "cảnh",
+        "đất",
+        "đai",
+        "tháng",
+        "ba"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổ mang chúa sừng tóe lửa\ncháy rừng cháy cả trời xanh lá cây\nbão giông thổi bay chim rợ\nđổ dốc đổ cả đồi ngô đỏ rực",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 50.0,
+     "rma": 0.0,
+     "overall": 55.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổ mang chúa sừng tóe lửa",
+       "syllables": [
+        "hổ",
+        "mang",
+        "chúa",
+        "sừng",
+        "tóe",
+        "lửa"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cháy rừng cháy cả trời xanh lá cây",
+       "syllables": [
+        "cháy",
+        "rừng",
+        "cháy",
+        "cả",
+        "trời",
+        "xanh",
+        "lá",
+        "cây"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bão giông thổi bay chim rợ",
+       "syllables": [
+        "bão",
+        "giông",
+        "thổi",
+        "bay",
+        "chim",
+        "rợ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đổ dốc đổ cả đồi ngô đỏ rực",
+       "syllables": [
+        "đổ",
+        "dốc",
+        "đổ",
+        "cả",
+        "đồi",
+        "ngô",
+        "đỏ",
+        "rực"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu chúc tết ông bà",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu chúc tết ông bà",
+   "số câu": 4,
+   "từ khoá": [
+    "chúc",
+    "tết",
+    "ông",
+    "bà"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "ượu rượi xuân sang đất nước\nlễ tết tràn ngời nụ cười xuân ấm\nchúc ông sức khỏe lâu bền\nchúc bà an khang thọ yến đầy bàn",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 42.86,
+     "rma": 33.33,
+     "overall": 62.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi xuân sang đất nước",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "xuân",
+        "sang",
+        "đất",
+        "nước"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "lễ tết tràn ngời nụ cười xuân ấm",
+       "syllables": [
+        "lễ",
+        "tết",
+        "tràn",
+        "ngời",
+        "nụ",
+        "cười",
+        "xuân",
+        "ấm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "chúc ông sức khỏe lâu bền",
+       "syllables": [
+        "chúc",
+        "ông",
+        "sức",
+        "khỏe",
+        "lâu",
+        "bền"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc bà an khang thọ yến đầy bàn",
+       "syllables": [
+        "chúc",
+        "bà",
+        "an",
+        "khang",
+        "thọ",
+        "yến",
+        "đầy",
+        "bàn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "úa nghèn nghe nho nhỏ nhà\nchúc tết ông bà năm mới đã về\nđèn hoa rực rỡ sáng ngời\ncơm niêu bánh dẻo ngọt lời thương nhau",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "úa nghèn nghe nho nhỏ nhà",
+       "syllables": [
+        "úa",
+        "nghèn",
+        "nghe",
+        "nho",
+        "nhỏ",
+        "nhà"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc tết ông bà năm mới đã về",
+       "syllables": [
+        "chúc",
+        "tết",
+        "ông",
+        "bà",
+        "năm",
+        "mới",
+        "đã",
+        "về"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đèn hoa rực rỡ sáng ngời",
+       "syllables": [
+        "đèn",
+        "hoa",
+        "rực",
+        "rỡ",
+        "sáng",
+        "ngời"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cơm niêu bánh dẻo ngọt lời thương nhau",
+       "syllables": [
+        "cơm",
+        "niêu",
+        "bánh",
+        "dẻo",
+        "ngọt",
+        "lời",
+        "thương",
+        "nhau"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn loạn vì quá nhiều yêu\ncầu và điều kiện trong khi không có\nkhả năng thực hiện được như\nmong đợi của người dùng trừ khi tôi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn loạn vì quá nhiều yêu",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "vì",
+        "quá",
+        "nhiều",
+        "yêu"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cầu và điều kiện trong khi không có",
+       "syllables": [
+        "cầu",
+        "và",
+        "điều",
+        "kiện",
+        "trong",
+        "khi",
+        "không",
+        "có"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "khả năng thực hiện được như",
+       "syllables": [
+        "khả",
+        "năng",
+        "thực",
+        "hiện",
+        "được",
+        "như"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "mong đợi của người dùng trừ khi tôi",
+       "syllables": [
+        "mong",
+        "đợi",
+        "của",
+        "người",
+        "dùng",
+        "trừ",
+        "khi",
+        "tôi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạ mời ngài đọc bài thơ\nhiếu hiền kính dãi nội mông chiêu xuân\nđong đầy ấm tửu thắm cung\nchúc tết ông bà lời trọn đạo tình",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạ mời ngài đọc bài thơ",
+       "syllables": [
+        "ạ",
+        "mời",
+        "ngài",
+        "đọc",
+        "bài",
+        "thơ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu hiền kính dãi nội mông chiêu xuân",
+       "syllables": [
+        "hiếu",
+        "hiền",
+        "kính",
+        "dãi",
+        "nội",
+        "mông",
+        "chiêu",
+        "xuân"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đong đầy ấm tửu thắm cung",
+       "syllables": [
+        "đong",
+        "đầy",
+        "ấm",
+        "tửu",
+        "thắm",
+        "cung"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc tết ông bà lời trọn đạo tình",
+       "syllables": [
+        "chúc",
+        "tết",
+        "ông",
+        "bà",
+        "lời",
+        "trọn",
+        "đạo",
+        "tình"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng có quyền như vậy này\nhỏng rồi anh ơi cái này mình cần\nsao đùng đó mà bắt cấm\nchỉ mình cho sáng tạo thôi mà an",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 50.0,
+     "rma": 33.33,
+     "overall": 65.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng có quyền như vậy này",
+       "syllables": [
+        "hổng",
+        "có",
+        "quyền",
+        "như",
+        "vậy",
+        "này"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏng rồi anh ơi cái này mình cần",
+       "syllables": [
+        "hỏng",
+        "rồi",
+        "anh",
+        "ơi",
+        "cái",
+        "này",
+        "mình",
+        "cần"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "sao đùng đó mà bắt cấm",
+       "syllables": [
+        "sao",
+        "đùng",
+        "đó",
+        "mà",
+        "bắt",
+        "cấm"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chỉ mình cho sáng tạo thôi mà an",
+       "syllables": [
+        "chỉ",
+        "mình",
+        "cho",
+        "sáng",
+        "tạo",
+        "thôi",
+        "mà",
+        "an"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn hồn ngại ngùng gì ở\nchúc tết ông bà thắm nồng hương ho\nđong đầy tình nhớ thương dạt\nlòng ai chẳng cảm ơn trang thương nhau",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 0.0,
+     "overall": 57.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn hồn ngại ngùng gì ở",
+       "syllables": [
+        "hổn",
+        "hồn",
+        "ngại",
+        "ngùng",
+        "gì",
+        "ở"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc tết ông bà thắm nồng hương ho",
+       "syllables": [
+        "chúc",
+        "tết",
+        "ông",
+        "bà",
+        "thắm",
+        "nồng",
+        "hương",
+        "ho"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đong đầy tình nhớ thương dạt",
+       "syllables": [
+        "đong",
+        "đầy",
+        "tình",
+        "nhớ",
+        "thương",
+        "dạt"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "lòng ai chẳng cảm ơn trang thương nhau",
+       "syllables": [
+        "lòng",
+        "ai",
+        "chẳng",
+        "cảm",
+        "ơn",
+        "trang",
+        "thương",
+        "nhau"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn nghe nho nhỏ khói\năm sương rơi nhẹ vào nhau qua hàng\ncháu chúc ông bà sức kho\ndồi dào sức khỏe năm sau càng thêm",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn nghe nho nhỏ khói",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "nghe",
+        "nho",
+        "nhỏ",
+        "khói"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "ăm sương rơi nhẹ vào nhau qua hàng",
+       "syllables": [
+        "ăm",
+        "sương",
+        "rơi",
+        "nhẹ",
+        "vào",
+        "nhau",
+        "qua",
+        "hàng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "cháu chúc ông bà sức kho",
+       "syllables": [
+        "cháu",
+        "chúc",
+        "ông",
+        "bà",
+        "sức",
+        "kho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "dồi dào sức khỏe năm sau càng thêm",
+       "syllables": [
+        "dồi",
+        "dào",
+        "sức",
+        "khỏe",
+        "năm",
+        "sau",
+        "càng",
+        "thêm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng có quyền giải thích gì\nhổng có quyền giải thích gì đâu mà\nhổng có quyền giải thích gì\nhổng có quyền giải thích gì nữa luôn",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng có quyền giải thích gì",
+       "syllables": [
+        "hổng",
+        "có",
+        "quyền",
+        "giải",
+        "thích",
+        "gì"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng có quyền giải thích gì đâu mà",
+       "syllables": [
+        "hổng",
+        "có",
+        "quyền",
+        "giải",
+        "thích",
+        "gì",
+        "đâu",
+        "mà"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổng có quyền giải thích gì",
+       "syllables": [
+        "hổng",
+        "có",
+        "quyền",
+        "giải",
+        "thích",
+        "gì"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng có quyền giải thích gì nữa luôn",
+       "syllables": [
+        "hổng",
+        "có",
+        "quyền",
+        "giải",
+        "thích",
+        "gì",
+        "nữa",
+        "luôn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu tả cảnh đồng quê",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu tả cảnh đồng quê",
+   "số câu": 4,
+   "từ khoá": [
+    "tả",
+    "cảnh",
+    "đồng",
+    "quê"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "ượu nghèn ngào gió mây trôi\nbờ xa nắng gọi chim hót về nhà\nlúa vàng rơi rụng dạt dào\nđồng quê em nhớ bao la ngày xưa",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 0.0,
+     "overall": 65.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn ngào gió mây trôi",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "ngào",
+        "gió",
+        "mây",
+        "trôi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "bờ xa nắng gọi chim hót về nhà",
+       "syllables": [
+        "bờ",
+        "xa",
+        "nắng",
+        "gọi",
+        "chim",
+        "hót",
+        "về",
+        "nhà"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "lúa vàng rơi rụng dạt dào",
+       "syllables": [
+        "lúa",
+        "vàng",
+        "rơi",
+        "rụng",
+        "dạt",
+        "dào"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đồng quê em nhớ bao la ngày xưa",
+       "syllables": [
+        "đồng",
+        "quê",
+        "em",
+        "nhớ",
+        "bao",
+        "la",
+        "ngày",
+        "xưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn ngạt gió hương đồng\nquê yên lặng trải dài mong đợi thu\nbồng sen xanh giữa trời mây\ncánh cò trắng rải dạt đầy sông sâu",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 66.67,
+     "overall": 87.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn ngạt gió hương đồng",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "ngạt",
+        "gió",
+        "hương",
+        "đồng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "quê yên lặng trải dài mong đợi thu",
+       "syllables": [
+        "quê",
+        "yên",
+        "lặng",
+        "trải",
+        "dài",
+        "mong",
+        "đợi",
+        "thu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bồng sen xanh giữa trời mây",
+       "syllables": [
+        "bồng",
+        "sen",
+        "xanh",
+        "giữa",
+        "trời",
+        "mây"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cánh cò trắng rải dạt đầy sông sâu",
+       "syllables": [
+        "cánh",
+        "cò",
+        "trắng",
+        "rải",
+        "dạt",
+        "đầy",
+        "sông",
+        "sâu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu rượi rêu xanh ngọn cỏ\nđồng quê nắng hạ vàng hoa sen bao\nthôn trang chim hót tiếng sáo\ncánh đồng lúa chín trăng sa đổ đầy",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 33.33,
+     "overall": 69.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi rêu xanh ngọn cỏ",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "rêu",
+        "xanh",
+        "ngọn",
+        "cỏ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đồng quê nắng hạ vàng hoa sen bao",
+       "syllables": [
+        "đồng",
+        "quê",
+        "nắng",
+        "hạ",
+        "vàng",
+        "hoa",
+        "sen",
+        "bao"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "thôn trang chim hót tiếng sáo",
+       "syllables": [
+        "thôn",
+        "trang",
+        "chim",
+        "hót",
+        "tiếng",
+        "sáo"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cánh đồng lúa chín trăng sa đổ đầy",
+       "syllables": [
+        "cánh",
+        "đồng",
+        "lúa",
+        "chín",
+        "trăng",
+        "sa",
+        "đổ",
+        "đầy"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt aí aí aí aí aí\nhỏa hồ nước hòai nhà trang trại mía\nhoa hoa nụ nở rộ rộ\nthơm tho mùi mặn chín chín trĩu cành",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 0.0,
+     "overall": 57.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt aí aí aí aí aí",
+       "syllables": [
+        "ạt",
+        "aí",
+        "aí",
+        "aí",
+        "aí",
+        "aí"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏa hồ nước hòai nhà trang trại mía",
+       "syllables": [
+        "hỏa",
+        "hồ",
+        "nước",
+        "hòai",
+        "nhà",
+        "trang",
+        "trại",
+        "mía"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hoa hoa nụ nở rộ rộ",
+       "syllables": [
+        "hoa",
+        "hoa",
+        "nụ",
+        "nở",
+        "rộ",
+        "rộ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thơm tho mùi mặn chín chín trĩu cành",
+       "syllables": [
+        "thơm",
+        "tho",
+        "mùi",
+        "mặn",
+        "chín",
+        "chín",
+        "trĩu",
+        "cành"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn nghe gió thổi cò\nbến sông xanh biếc trăng soi dáng người\nlúa vàng rực rỡ trải dài\ncánh đồng quê mẹ hiền hoà bóng trăng",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 100.0,
+     "rma": 0.0,
+     "overall": 70.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn nghe gió thổi cò",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "nghe",
+        "gió",
+        "thổi",
+        "cò"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "bến sông xanh biếc trăng soi dáng người",
+       "syllables": [
+        "bến",
+        "sông",
+        "xanh",
+        "biếc",
+        "trăng",
+        "soi",
+        "dáng",
+        "người"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "lúa vàng rực rỡ trải dài",
+       "syllables": [
+        "lúa",
+        "vàng",
+        "rực",
+        "rỡ",
+        "trải",
+        "dài"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cánh đồng quê mẹ hiền hoà bóng trăng",
+       "syllables": [
+        "cánh",
+        "đồng",
+        "quê",
+        "mẹ",
+        "hiền",
+        "hoà",
+        "bóng",
+        "trăng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu rượi thôn quê gió tho\nlúa vàng trĩa đất mồng tơ sương khuya\nbến sông ngõ nhỏ thuyền lướt\nđêm nồm dệt bóng sương mờ gió thổi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi thôn quê gió tho",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "thôn",
+        "quê",
+        "gió",
+        "tho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "lúa vàng trĩa đất mồng tơ sương khuya",
+       "syllables": [
+        "lúa",
+        "vàng",
+        "trĩa",
+        "đất",
+        "mồng",
+        "tơ",
+        "sương",
+        "khuya"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bến sông ngõ nhỏ thuyền lướt",
+       "syllables": [
+        "bến",
+        "sông",
+        "ngõ",
+        "nhỏ",
+        "thuyền",
+        "lướt"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đêm nồm dệt bóng sương mờ gió thổi",
+       "syllables": [
+        "đêm",
+        "nồm",
+        "dệt",
+        "bóng",
+        "sương",
+        "mờ",
+        "gió",
+        "thổi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hiếu mắn quá đi nào mà\nhở hở hở hở hở hở hở hở\nhở hở hở hở hở hở\nhở hở hở hở hở hở hở hở",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 28.57,
+     "rma": 66.67,
+     "overall": 68.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiếu mắn quá đi nào mà",
+       "syllables": [
+        "hiếu",
+        "mắn",
+        "quá",
+        "đi",
+        "nào",
+        "mà"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hở hở hở hở hở hở hở hở",
+       "syllables": [
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hở hở hở hở hở hở",
+       "syllables": [
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hở hở hở hở hở hở hở hở",
+       "syllables": [
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở",
+        "hở"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghẹn nghe sương sớm\nđồng quê rải rác cỏ mây trôi nhẹ\ncánh đồng xanh mướt nắng chiều\nthôn quê thao thức gió mơn man tình",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 0.0,
+     "overall": 63.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghẹn nghe sương sớm",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghẹn",
+        "nghe",
+        "sương",
+        "sớm"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đồng quê rải rác cỏ mây trôi nhẹ",
+       "syllables": [
+        "đồng",
+        "quê",
+        "rải",
+        "rác",
+        "cỏ",
+        "mây",
+        "trôi",
+        "nhẹ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "cánh đồng xanh mướt nắng chiều",
+       "syllables": [
+        "cánh",
+        "đồng",
+        "xanh",
+        "mướt",
+        "nắng",
+        "chiều"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thôn quê thao thức gió mơn man tình",
+       "syllables": [
+        "thôn",
+        "quê",
+        "thao",
+        "thức",
+        "gió",
+        "mơn",
+        "man",
+        "tình"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu về tình mẹ",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu về tình mẹ",
+   "số câu": 4,
+   "từ khoá": [
+    "tình",
+    "mẹ"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "hiên nhiên có thể bạn đang\nhiếu thảo biết bao nhiêu nay vẫn chưa\nnói hết lời yêu thương con\nđêm mẹ thức thâu canh dệt giấc mơ",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 42.86,
+     "rma": 0.0,
+     "overall": 52.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiên nhiên có thể bạn đang",
+       "syllables": [
+        "hiên",
+        "nhiên",
+        "có",
+        "thể",
+        "bạn",
+        "đang"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu thảo biết bao nhiêu nay vẫn chưa",
+       "syllables": [
+        "hiếu",
+        "thảo",
+        "biết",
+        "bao",
+        "nhiêu",
+        "nay",
+        "vẫn",
+        "chưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "nói hết lời yêu thương con",
+       "syllables": [
+        "nói",
+        "hết",
+        "lời",
+        "yêu",
+        "thương",
+        "con"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đêm mẹ thức thâu canh dệt giấc mơ",
+       "syllables": [
+        "đêm",
+        "mẹ",
+        "thức",
+        "thâu",
+        "canh",
+        "dệt",
+        "giấc",
+        "mơ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn ngào nước mắt thương\nđêm dài mẹ thầm lặng nghe con khóc\ntình yêu mẹ như nắng mai\nsưởi ấm tim con giữa đời đông giá",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 0.0,
+     "overall": 57.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn ngào nước mắt thương",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "ngào",
+        "nước",
+        "mắt",
+        "thương"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đêm dài mẹ thầm lặng nghe con khóc",
+       "syllables": [
+        "đêm",
+        "dài",
+        "mẹ",
+        "thầm",
+        "lặng",
+        "nghe",
+        "con",
+        "khóc"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "tình yêu mẹ như nắng mai",
+       "syllables": [
+        "tình",
+        "yêu",
+        "mẹ",
+        "như",
+        "nắng",
+        "mai"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sưởi ấm tim con giữa đời đông giá",
+       "syllables": [
+        "sưởi",
+        "ấm",
+        "tim",
+        "con",
+        "giữa",
+        "đời",
+        "đông",
+        "giá"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hởn nghèn nghẹn nước mắt thương\ntình ngời như nắng mai vàng dạt dào\nchạm vào tim con những nẻ\nrộng bao la tựa biển khơi mênh mông",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hởn nghèn nghẹn nước mắt thương",
+       "syllables": [
+        "hởn",
+        "nghèn",
+        "nghẹn",
+        "nước",
+        "mắt",
+        "thương"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình ngời như nắng mai vàng dạt dào",
+       "syllables": [
+        "tình",
+        "ngời",
+        "như",
+        "nắng",
+        "mai",
+        "vàng",
+        "dạt",
+        "dào"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "chạm vào tim con những nẻ",
+       "syllables": [
+        "chạm",
+        "vào",
+        "tim",
+        "con",
+        "những",
+        "nẻ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "rộng bao la tựa biển khơi mênh mông",
+       "syllables": [
+        "rộng",
+        "bao",
+        "la",
+        "tựa",
+        "biển",
+        "khơi",
+        "mênh",
+        "mông"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hiếu nghèn ngà trăng sáng dọi\nnhớ ai bên mẹ nhớ nhung ngày xưa\nđêm nay lặng lẽ thầm thì\ntình mẹ như nước dịu hiền khó quên",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiếu nghèn ngà trăng sáng dọi",
+       "syllables": [
+        "hiếu",
+        "nghèn",
+        "ngà",
+        "trăng",
+        "sáng",
+        "dọi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nhớ ai bên mẹ nhớ nhung ngày xưa",
+       "syllables": [
+        "nhớ",
+        "ai",
+        "bên",
+        "mẹ",
+        "nhớ",
+        "nhung",
+        "ngày",
+        "xưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đêm nay lặng lẽ thầm thì",
+       "syllables": [
+        "đêm",
+        "nay",
+        "lặng",
+        "lẽ",
+        "thầm",
+        "thì"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình mẹ như nước dịu hiền khó quên",
+       "syllables": [
+        "tình",
+        "mẹ",
+        "như",
+        "nước",
+        "dịu",
+        "hiền",
+        "khó",
+        "quên"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng cắn được câu hỏi này\nhỏng rồi cái thằng này hổng biết làm\nkhông thể sáng tác thơ lục\nbát vì không hiểu gì về thơ lục",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 50.0,
+     "rma": 0.0,
+     "overall": 55.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng cắn được câu hỏi này",
+       "syllables": [
+        "hổng",
+        "cắn",
+        "được",
+        "câu",
+        "hỏi",
+        "này"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏng rồi cái thằng này hổng biết làm",
+       "syllables": [
+        "hỏng",
+        "rồi",
+        "cái",
+        "thằng",
+        "này",
+        "hổng",
+        "biết",
+        "làm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "không thể sáng tác thơ lục",
+       "syllables": [
+        "không",
+        "thể",
+        "sáng",
+        "tác",
+        "thơ",
+        "lục"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "bát vì không hiểu gì về thơ lục",
+       "syllables": [
+        "bát",
+        "vì",
+        "không",
+        "hiểu",
+        "gì",
+        "về",
+        "thơ",
+        "lục"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn hồn quá đỗi vì lời\nđêm nay có mẹ ở đây thật hay\nbóng dáng hiền lành như trăng\ntình yêu sâu lắng chẳng trăng nào so",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn hồn quá đỗi vì lời",
+       "syllables": [
+        "hổn",
+        "hồn",
+        "quá",
+        "đỗi",
+        "vì",
+        "lời"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đêm nay có mẹ ở đây thật hay",
+       "syllables": [
+        "đêm",
+        "nay",
+        "có",
+        "mẹ",
+        "ở",
+        "đây",
+        "thật",
+        "hay"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bóng dáng hiền lành như trăng",
+       "syllables": [
+        "bóng",
+        "dáng",
+        "hiền",
+        "lành",
+        "như",
+        "trăng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình yêu sâu lắng chẳng trăng nào so",
+       "syllables": [
+        "tình",
+        "yêu",
+        "sâu",
+        "lắng",
+        "chẳng",
+        "trăng",
+        "nào",
+        "so"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghẹn cơn mưa năm\ntình mẹ thầm lặng như ngọn nến xưa\nbão giông dâng trào tháng ngày\ndẫu xa vẫn biết người thương nhớ da",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghẹn cơn mưa năm",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghẹn",
+        "cơn",
+        "mưa",
+        "năm"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình mẹ thầm lặng như ngọn nến xưa",
+       "syllables": [
+        "tình",
+        "mẹ",
+        "thầm",
+        "lặng",
+        "như",
+        "ngọn",
+        "nến",
+        "xưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bão giông dâng trào tháng ngày",
+       "syllables": [
+        "bão",
+        "giông",
+        "dâng",
+        "trào",
+        "tháng",
+        "ngày"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "dẫu xa vẫn biết người thương nhớ da",
+       "syllables": [
+        "dẫu",
+        "xa",
+        "vẫn",
+        "biết",
+        "người",
+        "thương",
+        "nhớ",
+        "da"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu rượi nồng nàn gió chiều\ntình mẹ như sóng gợn trào triều sâu\ndẫu đời mưa nắng dầm sương\ntay mẹ vẫn giữ mặn mòi yêu thương",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi nồng nàn gió chiều",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "nồng",
+        "nàn",
+        "gió",
+        "chiều"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình mẹ như sóng gợn trào triều sâu",
+       "syllables": [
+        "tình",
+        "mẹ",
+        "như",
+        "sóng",
+        "gợn",
+        "trào",
+        "triều",
+        "sâu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "dẫu đời mưa nắng dầm sương",
+       "syllables": [
+        "dẫu",
+        "đời",
+        "mưa",
+        "nắng",
+        "dầm",
+        "sương"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tay mẹ vẫn giữ mặn mòi yêu thương",
+       "syllables": [
+        "tay",
+        "mẹ",
+        "vẫn",
+        "giữ",
+        "mặn",
+        "mòi",
+        "yêu",
+        "thương"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu về quê hương",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu về quê hương",
+   "số câu": 4,
+   "từ khoá": [
+    "quê",
+    "hương"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "áo xưa người mẹ vẫn tảo\nthả diều ngày hạ rạng ngời quê hương\nnắng vàng trải dài cánh đồng\nchim bay bóng trắng giữa lòng quê hương",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 66.67,
+     "overall": 85.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "áo xưa người mẹ vẫn tảo",
+       "syllables": [
+        "áo",
+        "xưa",
+        "người",
+        "mẹ",
+        "vẫn",
+        "tảo"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thả diều ngày hạ rạng ngời quê hương",
+       "syllables": [
+        "thả",
+        "diều",
+        "ngày",
+        "hạ",
+        "rạng",
+        "ngời",
+        "quê",
+        "hương"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "nắng vàng trải dài cánh đồng",
+       "syllables": [
+        "nắng",
+        "vàng",
+        "trải",
+        "dài",
+        "cánh",
+        "đồng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chim bay bóng trắng giữa lòng quê hương",
+       "syllables": [
+        "chim",
+        "bay",
+        "bóng",
+        "trắng",
+        "giữa",
+        "lòng",
+        "quê",
+        "hương"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hiên kỳ vọng của bạn là\nhỏng rồi đó bạn ơi qua lại giữa\nquê hương tình nghĩa nặng nề\nchính mình mà chẳng biết trang trải thì",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 33.33,
+     "overall": 77.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiên kỳ vọng của bạn là",
+       "syllables": [
+        "hiên",
+        "kỳ",
+        "vọng",
+        "của",
+        "bạn",
+        "là"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏng rồi đó bạn ơi qua lại giữa",
+       "syllables": [
+        "hỏng",
+        "rồi",
+        "đó",
+        "bạn",
+        "ơi",
+        "qua",
+        "lại",
+        "giữa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "quê hương tình nghĩa nặng nề",
+       "syllables": [
+        "quê",
+        "hương",
+        "tình",
+        "nghĩa",
+        "nặng",
+        "nề"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chính mình mà chẳng biết trang trải thì",
+       "syllables": [
+        "chính",
+        "mình",
+        "mà",
+        "chẳng",
+        "biết",
+        "trang",
+        "trải",
+        "thì"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn ngà thắm sắc quê\nchim reo rạng nắng hương trưa giữa đồng\nlàng xưa vẫn giữ nét ho\nsông sâu nước chảy nhẹ nhàng quạnh hi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 100.0,
+     "rma": 0.0,
+     "overall": 70.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn ngà thắm sắc quê",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "ngà",
+        "thắm",
+        "sắc",
+        "quê"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chim reo rạng nắng hương trưa giữa đồng",
+       "syllables": [
+        "chim",
+        "reo",
+        "rạng",
+        "nắng",
+        "hương",
+        "trưa",
+        "giữa",
+        "đồng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "làng xưa vẫn giữ nét ho",
+       "syllables": [
+        "làng",
+        "xưa",
+        "vẫn",
+        "giữ",
+        "nét",
+        "ho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sông sâu nước chảy nhẹ nhàng quạnh hi",
+       "syllables": [
+        "sông",
+        "sâu",
+        "nước",
+        "chảy",
+        "nhẹ",
+        "nhàng",
+        "quạnh",
+        "hi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ấ giấcmơ màng sương sớm quê\nhương hoa dải lụa thêu xanh ngắt chốn\nchân trời mộng mơ nơi tảo\ntạm dừng khúc hát lòng trào chảy nhớ",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 33.33,
+     "overall": 67.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ấ giấcmơ màng sương sớm quê",
+       "syllables": [
+        "ấ",
+        "giấcmơ",
+        "màng",
+        "sương",
+        "sớm",
+        "quê"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hương hoa dải lụa thêu xanh ngắt chốn",
+       "syllables": [
+        "hương",
+        "hoa",
+        "dải",
+        "lụa",
+        "thêu",
+        "xanh",
+        "ngắt",
+        "chốn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "chân trời mộng mơ nơi tảo",
+       "syllables": [
+        "chân",
+        "trời",
+        "mộng",
+        "mơ",
+        "nơi",
+        "tảo"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tạm dừng khúc hát lòng trào chảy nhớ",
+       "syllables": [
+        "tạm",
+        "dừng",
+        "khúc",
+        "hát",
+        "lòng",
+        "trào",
+        "chảy",
+        "nhớ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn ngào nhớ bóng quê\nông bà xưa vẫn nhắc nhung ngày xưa\nquê hương đất mẹ hiền hòa\ntình người đong đầy mộc mạc như mơ",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 0.0,
+     "overall": 63.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn ngào nhớ bóng quê",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "ngào",
+        "nhớ",
+        "bóng",
+        "quê"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "ông bà xưa vẫn nhắc nhung ngày xưa",
+       "syllables": [
+        "ông",
+        "bà",
+        "xưa",
+        "vẫn",
+        "nhắc",
+        "nhung",
+        "ngày",
+        "xưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "quê hương đất mẹ hiền hòa",
+       "syllables": [
+        "quê",
+        "hương",
+        "đất",
+        "mẹ",
+        "hiền",
+        "hòa"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tình người đong đầy mộc mạc như mơ",
+       "syllables": [
+        "tình",
+        "người",
+        "đong",
+        "đầy",
+        "mộc",
+        "mạc",
+        "như",
+        "mơ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hiên liền liền liền liền liền\nhiếu liền liền liền liền liền liền liền\niêu liền liền liền liền liền\niêu liền liền liền liền liền liền liền",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 100.0,
+     "overall": 87.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiên liền liền liền liền liền",
+       "syllables": [
+        "hiên",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu liền liền liền liền liền liền liền",
+       "syllables": [
+        "hiếu",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "iêu liền liền liền liền liền",
+       "syllables": [
+        "iêu",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "iêu liền liền liền liền liền liền liền",
+       "syllables": [
+        "iêu",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền",
+        "liền"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng cần gì mà giải thích\nhổng cần gì mà suy luận đây an\nquê nghèo có nắng gió sương\nhương đồng gió thổi mộng vàng trôi xa",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng cần gì mà giải thích",
+       "syllables": [
+        "hổng",
+        "cần",
+        "gì",
+        "mà",
+        "giải",
+        "thích"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng cần gì mà suy luận đây an",
+       "syllables": [
+        "hổng",
+        "cần",
+        "gì",
+        "mà",
+        "suy",
+        "luận",
+        "đây",
+        "an"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "quê nghèo có nắng gió sương",
+       "syllables": [
+        "quê",
+        "nghèo",
+        "có",
+        "nắng",
+        "gió",
+        "sương"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hương đồng gió thổi mộng vàng trôi xa",
+       "syllables": [
+        "hương",
+        "đồng",
+        "gió",
+        "thổi",
+        "mộng",
+        "vàng",
+        "trôi",
+        "xa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghèn nước mắt ngời\nquê hương tháng năm xanh biếc trời mưa\nbờ cọ nghiêng nghiêng như đung\nđất mẹ hồn nhiên vẫn thắm tình quê",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 50.0,
+     "rma": 0.0,
+     "overall": 55.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghèn nước mắt ngời",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghèn",
+        "nước",
+        "mắt",
+        "ngời"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "quê hương tháng năm xanh biếc trời mưa",
+       "syllables": [
+        "quê",
+        "hương",
+        "tháng",
+        "năm",
+        "xanh",
+        "biếc",
+        "trời",
+        "mưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bờ cọ nghiêng nghiêng như đung",
+       "syllables": [
+        "bờ",
+        "cọ",
+        "nghiêng",
+        "nghiêng",
+        "như",
+        "đung"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đất mẹ hồn nhiên vẫn thắm tình quê",
+       "syllables": [
+        "đất",
+        "mẹ",
+        "hồn",
+        "nhiên",
+        "vẫn",
+        "thắm",
+        "tình",
+        "quê"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu về biển đảo",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu về biển đảo",
+   "số câu": 4,
+   "từ khoá": [
+    "biển",
+    "đảo"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "hổn loạn vì quá nhiều yêu\ncầu và điều kiện hạn ché nămvề văn\nhoá và ngôn ngữ mà mình\nkhông đủ năng lực để tậnnơi đạt được",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn loạn vì quá nhiều yêu",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "vì",
+        "quá",
+        "nhiều",
+        "yêu"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cầu và điều kiện hạn ché nămvề văn",
+       "syllables": [
+        "cầu",
+        "và",
+        "điều",
+        "kiện",
+        "hạn",
+        "ché",
+        "nămvề",
+        "văn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hoá và ngôn ngữ mà mình",
+       "syllables": [
+        "hoá",
+        "và",
+        "ngôn",
+        "ngữ",
+        "mà",
+        "mình"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "không đủ năng lực để tậnnơi đạt được",
+       "syllables": [
+        "không",
+        "đủ",
+        "năng",
+        "lực",
+        "để",
+        "tậnnơi",
+        "đạt",
+        "được"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu nghèn ngùng trăng sáng sủa\nào rì rào sóng biếc xanh buồn thầm\nải xa xa mờ giữa khơi\nận hồn ta chẳng nỡ rời xa quê",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 33.33,
+     "overall": 73.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu nghèn ngùng trăng sáng sủa",
+       "syllables": [
+        "ượu",
+        "nghèn",
+        "ngùng",
+        "trăng",
+        "sáng",
+        "sủa"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "ào rì rào sóng biếc xanh buồn thầm",
+       "syllables": [
+        "ào",
+        "rì",
+        "rào",
+        "sóng",
+        "biếc",
+        "xanh",
+        "buồn",
+        "thầm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "ải xa xa mờ giữa khơi",
+       "syllables": [
+        "ải",
+        "xa",
+        "xa",
+        "mờ",
+        "giữa",
+        "khơi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "ận hồn ta chẳng nỡ rời xa quê",
+       "syllables": [
+        "ận",
+        "hồn",
+        "ta",
+        "chẳng",
+        "nỡ",
+        "rời",
+        "xa",
+        "quê"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghe tiếng sóng vỗ\nđảo xa mờ hiện giữa khơi xanh thẳm\ntrời trong gió thoảng hương mặ\nbiển dạt dào sóng nước rì rào gọi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghe tiếng sóng vỗ",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghe",
+        "tiếng",
+        "sóng",
+        "vỗ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đảo xa mờ hiện giữa khơi xanh thẳm",
+       "syllables": [
+        "đảo",
+        "xa",
+        "mờ",
+        "hiện",
+        "giữa",
+        "khơi",
+        "xanh",
+        "thẳm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "trời trong gió thoảng hương mặ",
+       "syllables": [
+        "trời",
+        "trong",
+        "gió",
+        "thoảng",
+        "hương",
+        "mặ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "biển dạt dào sóng nước rì rào gọi",
+       "syllables": [
+        "biển",
+        "dạt",
+        "dào",
+        "sóng",
+        "nước",
+        "rì",
+        "rào",
+        "gọi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hởn nghèn nước xanh thẳm rộng\nrừng ngàu đước bạc xa khơi vẫn mặ\nnồi cơm gạo trắng ngào ngạt\ncánh buồm trời biếc nối mây hờn gió",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hởn nghèn nước xanh thẳm rộng",
+       "syllables": [
+        "hởn",
+        "nghèn",
+        "nước",
+        "xanh",
+        "thẳm",
+        "rộng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "rừng ngàu đước bạc xa khơi vẫn mặ",
+       "syllables": [
+        "rừng",
+        "ngàu",
+        "đước",
+        "bạc",
+        "xa",
+        "khơi",
+        "vẫn",
+        "mặ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "nồi cơm gạo trắng ngào ngạt",
+       "syllables": [
+        "nồi",
+        "cơm",
+        "gạo",
+        "trắng",
+        "ngào",
+        "ngạt"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cánh buồm trời biếc nối mây hờn gió",
+       "syllables": [
+        "cánh",
+        "buồm",
+        "trời",
+        "biếc",
+        "nối",
+        "mây",
+        "hờn",
+        "gió"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạ mời quý khách hàng tham\nhỏa tặc đốt rừng xanh rợn ngọn trăng\nrừng thông như người khóc lặng\nđêm sâu gió hú vọng bi thương lời",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 33.33,
+     "overall": 69.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạ mời quý khách hàng tham",
+       "syllables": [
+        "ạ",
+        "mời",
+        "quý",
+        "khách",
+        "hàng",
+        "tham"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏa tặc đốt rừng xanh rợn ngọn trăng",
+       "syllables": [
+        "hỏa",
+        "tặc",
+        "đốt",
+        "rừng",
+        "xanh",
+        "rợn",
+        "ngọn",
+        "trăng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "rừng thông như người khóc lặng",
+       "syllables": [
+        "rừng",
+        "thông",
+        "như",
+        "người",
+        "khóc",
+        "lặng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đêm sâu gió hú vọng bi thương lời",
+       "syllables": [
+        "đêm",
+        "sâu",
+        "gió",
+        "hú",
+        "vọng",
+        "bi",
+        "thương",
+        "lời"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ãi ong còi sóng biếc mê\nbiển xanh hồn nước mênh mông gió thổi\nđảo vàng nắng sớm vàng rực\nsắc màu thiên nhiên tràn đầy sức sống",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ãi ong còi sóng biếc mê",
+       "syllables": [
+        "ãi",
+        "ong",
+        "còi",
+        "sóng",
+        "biếc",
+        "mê"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "biển xanh hồn nước mênh mông gió thổi",
+       "syllables": [
+        "biển",
+        "xanh",
+        "hồn",
+        "nước",
+        "mênh",
+        "mông",
+        "gió",
+        "thổi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đảo vàng nắng sớm vàng rực",
+       "syllables": [
+        "đảo",
+        "vàng",
+        "nắng",
+        "sớm",
+        "vàng",
+        "rực"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sắc màu thiên nhiên tràn đầy sức sống",
+       "syllables": [
+        "sắc",
+        "màu",
+        "thiên",
+        "nhiên",
+        "tràn",
+        "đầy",
+        "sức",
+        "sống"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn loạn quá mức trong tình\nhổn loạn quá mức trong tình yêu ơi\nhổn loạn quá mức trong tình\nhổn loạn quá mức trong tình yêu ơi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 66.67,
+     "overall": 81.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn loạn quá mức trong tình",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "quá",
+        "mức",
+        "trong",
+        "tình"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổn loạn quá mức trong tình yêu ơi",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "quá",
+        "mức",
+        "trong",
+        "tình",
+        "yêu",
+        "ơi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổn loạn quá mức trong tình",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "quá",
+        "mức",
+        "trong",
+        "tình"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổn loạn quá mức trong tình yêu ơi",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "quá",
+        "mức",
+        "trong",
+        "tình",
+        "yêu",
+        "ơi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn loạn vì không biết bắt\nhởm không biết cách bày tỏ đây mà\nhổn hổn hồn người khóc thầm\nkhông dám hỏi ai cho mượn chốn nào",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 35.71,
+     "rma": 0.0,
+     "overall": 50.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn loạn vì không biết bắt",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "vì",
+        "không",
+        "biết",
+        "bắt"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hởm không biết cách bày tỏ đây mà",
+       "syllables": [
+        "hởm",
+        "không",
+        "biết",
+        "cách",
+        "bày",
+        "tỏ",
+        "đây",
+        "mà"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổn hổn hồn người khóc thầm",
+       "syllables": [
+        "hổn",
+        "hổn",
+        "hồn",
+        "người",
+        "khóc",
+        "thầm"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "không dám hỏi ai cho mượn chốn nào",
+       "syllables": [
+        "không",
+        "dám",
+        "hỏi",
+        "ai",
+        "cho",
+        "mượn",
+        "chốn",
+        "nào"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu nhớ trường xưa",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu nhớ trường xưa",
+   "số câu": 4,
+   "từ khoá": [
+    "nhớ",
+    "trường",
+    "xưa"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "ượu rượi rì rào thưở ấy\ntrường xưa mộng tưởng ngày ngời nhớ nồng\ncây xanh bóng rợn nắng vàng\nhàng cây bóng mát dăm ba năm trôi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 33.33,
+     "overall": 69.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi rì rào thưở ấy",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "rì",
+        "rào",
+        "thưở",
+        "ấy"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "trường xưa mộng tưởng ngày ngời nhớ nồng",
+       "syllables": [
+        "trường",
+        "xưa",
+        "mộng",
+        "tưởng",
+        "ngày",
+        "ngời",
+        "nhớ",
+        "nồng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "cây xanh bóng rợn nắng vàng",
+       "syllables": [
+        "cây",
+        "xanh",
+        "bóng",
+        "rợn",
+        "nắng",
+        "vàng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hàng cây bóng mát dăm ba năm trôi",
+       "syllables": [
+        "hàng",
+        "cây",
+        "bóng",
+        "mát",
+        "dăm",
+        "ba",
+        "năm",
+        "trôi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hiên nhiên không thể tạo ra\nhỏng rồi thì thôi nhé và cảm ơn\nhế nè bạn đọc sách nghe\nnhớ trường xưa vẫn còn nguyên vẹn nho",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 33.33,
+     "overall": 75.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiên nhiên không thể tạo ra",
+       "syllables": [
+        "hiên",
+        "nhiên",
+        "không",
+        "thể",
+        "tạo",
+        "ra"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏng rồi thì thôi nhé và cảm ơn",
+       "syllables": [
+        "hỏng",
+        "rồi",
+        "thì",
+        "thôi",
+        "nhé",
+        "và",
+        "cảm",
+        "ơn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hế nè bạn đọc sách nghe",
+       "syllables": [
+        "hế",
+        "nè",
+        "bạn",
+        "đọc",
+        "sách",
+        "nghe"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nhớ trường xưa vẫn còn nguyên vẹn nho",
+       "syllables": [
+        "nhớ",
+        "trường",
+        "xưa",
+        "vẫn",
+        "còn",
+        "nguyên",
+        "vẹn",
+        "nho"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạ mời tham khảo bài thơ\nhỏa tuất mươi năm kỷ niệm xưa nhớ\ntrường xưa rêu biếc hồn thơ\nnhớ ngày sương sớm giảng đường xưa rộ",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 33.33,
+     "overall": 69.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạ mời tham khảo bài thơ",
+       "syllables": [
+        "ạ",
+        "mời",
+        "tham",
+        "khảo",
+        "bài",
+        "thơ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏa tuất mươi năm kỷ niệm xưa nhớ",
+       "syllables": [
+        "hỏa",
+        "tuất",
+        "mươi",
+        "năm",
+        "kỷ",
+        "niệm",
+        "xưa",
+        "nhớ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "trường xưa rêu biếc hồn thơ",
+       "syllables": [
+        "trường",
+        "xưa",
+        "rêu",
+        "biếc",
+        "hồn",
+        "thơ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nhớ ngày sương sớm giảng đường xưa rộ",
+       "syllables": [
+        "nhớ",
+        "ngày",
+        "sương",
+        "sớm",
+        "giảng",
+        "đường",
+        "xưa",
+        "rộ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổ mang đỏ mắt nhìn người\nhổ dữ đang nghe lời kêu cứu từ\nhàng cây rễ mọc lên từ\ncội đa già giữa đồng xanh thẳm nơi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 33.33,
+     "overall": 73.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổ mang đỏ mắt nhìn người",
+       "syllables": [
+        "hổ",
+        "mang",
+        "đỏ",
+        "mắt",
+        "nhìn",
+        "người"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổ dữ đang nghe lời kêu cứu từ",
+       "syllables": [
+        "hổ",
+        "dữ",
+        "đang",
+        "nghe",
+        "lời",
+        "kêu",
+        "cứu",
+        "từ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hàng cây rễ mọc lên từ",
+       "syllables": [
+        "hàng",
+        "cây",
+        "rễ",
+        "mọc",
+        "lên",
+        "từ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cội đa già giữa đồng xanh thẳm nơi",
+       "syllables": [
+        "cội",
+        "đa",
+        "già",
+        "giữa",
+        "đồng",
+        "xanh",
+        "thẳm",
+        "nơi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hiên liền có thể viết cho\nhiếu không trao đổi gì thêm thì làm\nhiếu không nói rõ ràng gì\nhiếu không thể hiểu được gì hết đó",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 0.0,
+     "overall": 67.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiên liền có thể viết cho",
+       "syllables": [
+        "hiên",
+        "liền",
+        "có",
+        "thể",
+        "viết",
+        "cho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu không trao đổi gì thêm thì làm",
+       "syllables": [
+        "hiếu",
+        "không",
+        "trao",
+        "đổi",
+        "gì",
+        "thêm",
+        "thì",
+        "làm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hiếu không nói rõ ràng gì",
+       "syllables": [
+        "hiếu",
+        "không",
+        "nói",
+        "rõ",
+        "ràng",
+        "gì"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu không thể hiểu được gì hết đó",
+       "syllables": [
+        "hiếu",
+        "không",
+        "thể",
+        "hiểu",
+        "được",
+        "gì",
+        "hết",
+        "đó"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hởn nhoài kỷ niệm tháng ngày\ntrường xưa rợn nắng gió bay đi ngang\nthời gian trôi quá nhẹ nhàng\nnhớ ai năm cũ dáng hiền quen thương",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 66.67,
+     "overall": 87.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hởn nhoài kỷ niệm tháng ngày",
+       "syllables": [
+        "hởn",
+        "nhoài",
+        "kỷ",
+        "niệm",
+        "tháng",
+        "ngày"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "trường xưa rợn nắng gió bay đi ngang",
+       "syllables": [
+        "trường",
+        "xưa",
+        "rợn",
+        "nắng",
+        "gió",
+        "bay",
+        "đi",
+        "ngang"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "thời gian trôi quá nhẹ nhàng",
+       "syllables": [
+        "thời",
+        "gian",
+        "trôi",
+        "quá",
+        "nhẹ",
+        "nhàng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nhớ ai năm cũ dáng hiền quen thương",
+       "syllables": [
+        "nhớ",
+        "ai",
+        "năm",
+        "cũ",
+        "dáng",
+        "hiền",
+        "quen",
+        "thương"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt toả sáng như sao trời\nthiếu thời tháng cũ vẫn chơi vui đù\ntrường xưa vẫn giữ nụ cười\nnhớ ngày đầu tiên đi ngang bến mài",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 33.33,
+     "overall": 73.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt toả sáng như sao trời",
+       "syllables": [
+        "ạt",
+        "toả",
+        "sáng",
+        "như",
+        "sao",
+        "trời"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thiếu thời tháng cũ vẫn chơi vui đù",
+       "syllables": [
+        "thiếu",
+        "thời",
+        "tháng",
+        "cũ",
+        "vẫn",
+        "chơi",
+        "vui",
+        "đù"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "trường xưa vẫn giữ nụ cười",
+       "syllables": [
+        "trường",
+        "xưa",
+        "vẫn",
+        "giữ",
+        "nụ",
+        "cười"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nhớ ngày đầu tiên đi ngang bến mài",
+       "syllables": [
+        "nhớ",
+        "ngày",
+        "đầu",
+        "tiên",
+        "đi",
+        "ngang",
+        "bến",
+        "mài"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng ăn trâu hổng cắn môi\nhổng cắn môi hổng ăn trâu nha an\nđừng đùa nữa đi anh ơi\nchúng ta có hẹn ngày mai nhé an",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng ăn trâu hổng cắn môi",
+       "syllables": [
+        "hổng",
+        "ăn",
+        "trâu",
+        "hổng",
+        "cắn",
+        "môi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng cắn môi hổng ăn trâu nha an",
+       "syllables": [
+        "hổng",
+        "cắn",
+        "môi",
+        "hổng",
+        "ăn",
+        "trâu",
+        "nha",
+        "an"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đừng đùa nữa đi anh ơi",
+       "syllables": [
+        "đừng",
+        "đùa",
+        "nữa",
+        "đi",
+        "anh",
+        "ơi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúng ta có hẹn ngày mai nhé an",
+       "syllables": [
+        "chúng",
+        "ta",
+        "có",
+        "hẹn",
+        "ngày",
+        "mai",
+        "nhé",
+        "an"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu về mùa thu",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu về mùa thu",
+   "số câu": 4,
+   "từ khoá": [
+    "mùa",
+    "thu"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "hiếu mắn cho việc sáng tác\nhiếu mắn cho việc sáng tác ạ nhờ\nhiếu mắn cho việc sáng tác\nhiếu mắn cho việc sáng tác ạ nhờ",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 42.86,
+     "rma": 66.67,
+     "overall": 72.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiếu mắn cho việc sáng tác",
+       "syllables": [
+        "hiếu",
+        "mắn",
+        "cho",
+        "việc",
+        "sáng",
+        "tác"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu mắn cho việc sáng tác ạ nhờ",
+       "syllables": [
+        "hiếu",
+        "mắn",
+        "cho",
+        "việc",
+        "sáng",
+        "tác",
+        "ạ",
+        "nhờ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hiếu mắn cho việc sáng tác",
+       "syllables": [
+        "hiếu",
+        "mắn",
+        "cho",
+        "việc",
+        "sáng",
+        "tác"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu mắn cho việc sáng tác ạ nhờ",
+       "syllables": [
+        "hiếu",
+        "mắn",
+        "cho",
+        "việc",
+        "sáng",
+        "tác",
+        "ạ",
+        "nhờ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn hồn vì có thể người\nkhông hiểu gì cả mà lại hỏi tôi\nthơ lục bát với luật vần\ntrước tiên mình bắt đầu bằng cách chọn",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn hồn vì có thể người",
+       "syllables": [
+        "hổn",
+        "hồn",
+        "vì",
+        "có",
+        "thể",
+        "người"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "không hiểu gì cả mà lại hỏi tôi",
+       "syllables": [
+        "không",
+        "hiểu",
+        "gì",
+        "cả",
+        "mà",
+        "lại",
+        "hỏi",
+        "tôi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "thơ lục bát với luật vần",
+       "syllables": [
+        "thơ",
+        "lục",
+        "bát",
+        "với",
+        "luật",
+        "vần"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "trước tiên mình bắt đầu bằng cách chọn",
+       "syllables": [
+        "trước",
+        "tiên",
+        "mình",
+        "bắt",
+        "đầu",
+        "bằng",
+        "cách",
+        "chọn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng có thể tạo ra thơ\nhiếu nguyên tắc lục bát nghe như này\ncâu lục thì ơi đếm tròn\ncâu bát thì ờ đủ ấm lòng người",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 0.0,
+     "overall": 57.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng có thể tạo ra thơ",
+       "syllables": [
+        "hổng",
+        "có",
+        "thể",
+        "tạo",
+        "ra",
+        "thơ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu nguyên tắc lục bát nghe như này",
+       "syllables": [
+        "hiếu",
+        "nguyên",
+        "tắc",
+        "lục",
+        "bát",
+        "nghe",
+        "như",
+        "này"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "câu lục thì ơi đếm tròn",
+       "syllables": [
+        "câu",
+        "lục",
+        "thì",
+        "ơi",
+        "đếm",
+        "tròn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "câu bát thì ờ đủ ấm lòng người",
+       "syllables": [
+        "câu",
+        "bát",
+        "thì",
+        "ờ",
+        "đủ",
+        "ấm",
+        "lòng",
+        "người"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghe nẻo thu sang\nchín trời vàng óng rực hường quê ta\nmùa thu về gió thoảng hồn\nsắc hoa tím ngắt thao thức lòng người",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 33.33,
+     "overall": 77.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghe nẻo thu sang",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghe",
+        "nẻo",
+        "thu",
+        "sang"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chín trời vàng óng rực hường quê ta",
+       "syllables": [
+        "chín",
+        "trời",
+        "vàng",
+        "óng",
+        "rực",
+        "hường",
+        "quê",
+        "ta"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "mùa thu về gió thoảng hồn",
+       "syllables": [
+        "mùa",
+        "thu",
+        "về",
+        "gió",
+        "thoảng",
+        "hồn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sắc hoa tím ngắt thao thức lòng người",
+       "syllables": [
+        "sắc",
+        "hoa",
+        "tím",
+        "ngắt",
+        "thao",
+        "thức",
+        "lòng",
+        "người"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng có sẵn cái gì đó\nhổng có sẵn cái gì đó để làm\nhổng có sẵn cái gì đó\nhổng có sẵn cái gì đó để làm",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 42.86,
+     "rma": 66.67,
+     "overall": 72.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng có sẵn cái gì đó",
+       "syllables": [
+        "hổng",
+        "có",
+        "sẵn",
+        "cái",
+        "gì",
+        "đó"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng có sẵn cái gì đó để làm",
+       "syllables": [
+        "hổng",
+        "có",
+        "sẵn",
+        "cái",
+        "gì",
+        "đó",
+        "để",
+        "làm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổng có sẵn cái gì đó",
+       "syllables": [
+        "hổng",
+        "có",
+        "sẵn",
+        "cái",
+        "gì",
+        "đó"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng có sẵn cái gì đó để làm",
+       "syllables": [
+        "hổng",
+        "có",
+        "sẵn",
+        "cái",
+        "gì",
+        "đó",
+        "để",
+        "làm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn hào không biết làm gì\nhỏa hồ không có gì để làm gì\nhổn hào không biết làm gì\nhỏa hồ không có gì để làm gì",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 0.0,
+     "overall": 65.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn hào không biết làm gì",
+       "syllables": [
+        "hổn",
+        "hào",
+        "không",
+        "biết",
+        "làm",
+        "gì"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏa hồ không có gì để làm gì",
+       "syllables": [
+        "hỏa",
+        "hồ",
+        "không",
+        "có",
+        "gì",
+        "để",
+        "làm",
+        "gì"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổn hào không biết làm gì",
+       "syllables": [
+        "hổn",
+        "hào",
+        "không",
+        "biết",
+        "làm",
+        "gì"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hỏa hồ không có gì để làm gì",
+       "syllables": [
+        "hỏa",
+        "hồ",
+        "không",
+        "có",
+        "gì",
+        "để",
+        "làm",
+        "gì"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghe nẻo thu sang\nlá vàng rơi rụng giữa đường mòn xưa\nmùa thu đến nắng vẫn hử\ntrăng khuyết in hình nước chia đôi đê",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghe nẻo thu sang",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghe",
+        "nẻo",
+        "thu",
+        "sang"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "lá vàng rơi rụng giữa đường mòn xưa",
+       "syllables": [
+        "lá",
+        "vàng",
+        "rơi",
+        "rụng",
+        "giữa",
+        "đường",
+        "mòn",
+        "xưa"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "mùa thu đến nắng vẫn hử",
+       "syllables": [
+        "mùa",
+        "thu",
+        "đến",
+        "nắng",
+        "vẫn",
+        "hử"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "trăng khuyết in hình nước chia đôi đê",
+       "syllables": [
+        "trăng",
+        "khuyết",
+        "in",
+        "hình",
+        "nước",
+        "chia",
+        "đôi",
+        "đê"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn hồn quá mức trong vùng\ntrận mưa thu dâng khói sương ngắt ngót\nthôn trang rêu mọc thưa dần\nđường xưa bóng dáng người thân xa xăm",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 66.67,
+     "overall": 83.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn hồn quá mức trong vùng",
+       "syllables": [
+        "hổn",
+        "hồn",
+        "quá",
+        "mức",
+        "trong",
+        "vùng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "trận mưa thu dâng khói sương ngắt ngót",
+       "syllables": [
+        "trận",
+        "mưa",
+        "thu",
+        "dâng",
+        "khói",
+        "sương",
+        "ngắt",
+        "ngót"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "thôn trang rêu mọc thưa dần",
+       "syllables": [
+        "thôn",
+        "trang",
+        "rêu",
+        "mọc",
+        "thưa",
+        "dần"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đường xưa bóng dáng người thân xa xăm",
+       "syllables": [
+        "đường",
+        "xưa",
+        "bóng",
+        "dáng",
+        "người",
+        "thân",
+        "xa",
+        "xăm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu chúc mừng sinh nhật bạn",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu chúc mừng sinh nhật bạn",
+   "số câu": 4,
+   "từ khoá": [
+    "chúc",
+    "mừng",
+    "sinh",
+    "nhật"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "hiên kỳ diệu với khả năng\nhổ mang chúa cả rừng xanh vẫn lo\nnhớ nhung tình cũ mây bay\nthầy trò còn đây ngày vui nhớ nhung",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 78.57,
+     "rma": 0.0,
+     "overall": 63.57,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hiên kỳ diệu với khả năng",
+       "syllables": [
+        "hiên",
+        "kỳ",
+        "diệu",
+        "với",
+        "khả",
+        "năng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổ mang chúa cả rừng xanh vẫn lo",
+       "syllables": [
+        "hổ",
+        "mang",
+        "chúa",
+        "cả",
+        "rừng",
+        "xanh",
+        "vẫn",
+        "lo"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "nhớ nhung tình cũ mây bay",
+       "syllables": [
+        "nhớ",
+        "nhung",
+        "tình",
+        "cũ",
+        "mây",
+        "bay"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "thầy trò còn đây ngày vui nhớ nhung",
+       "syllables": [
+        "thầy",
+        "trò",
+        "còn",
+        "đây",
+        "ngày",
+        "vui",
+        "nhớ",
+        "nhung"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghèn nghe nho nhỏ\nchúc mừng sinh nhật bạn ơi thật nhiều\ntrước sau dẫu có chuyện chi\ncũng mang niềm vui đến đây trọn vẹn",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghèn nghe nho nhỏ",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghèn",
+        "nghe",
+        "nho",
+        "nhỏ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc mừng sinh nhật bạn ơi thật nhiều",
+       "syllables": [
+        "chúc",
+        "mừng",
+        "sinh",
+        "nhật",
+        "bạn",
+        "ơi",
+        "thật",
+        "nhiều"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "trước sau dẫu có chuyện chi",
+       "syllables": [
+        "trước",
+        "sau",
+        "dẫu",
+        "có",
+        "chuyện",
+        "chi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cũng mang niềm vui đến đây trọn vẹn",
+       "syllables": [
+        "cũng",
+        "mang",
+        "niềm",
+        "vui",
+        "đến",
+        "đây",
+        "trọn",
+        "vẹn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạ mời tham khảo bài thơ\nhiếu hán sinh nhât chúc mừng thật lâu\nsinh nhật anh em yêu dấu\ntâm tình gửi gắm trọn vẹn niềm thương",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 33.33,
+     "overall": 67.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạ mời tham khảo bài thơ",
+       "syllables": [
+        "ạ",
+        "mời",
+        "tham",
+        "khảo",
+        "bài",
+        "thơ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu hán sinh nhât chúc mừng thật lâu",
+       "syllables": [
+        "hiếu",
+        "hán",
+        "sinh",
+        "nhât",
+        "chúc",
+        "mừng",
+        "thật",
+        "lâu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "sinh nhật anh em yêu dấu",
+       "syllables": [
+        "sinh",
+        "nhật",
+        "anh",
+        "em",
+        "yêu",
+        "dấu"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 0,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "tâm tình gửi gắm trọn vẹn niềm thương",
+       "syllables": [
+        "tâm",
+        "tình",
+        "gửi",
+        "gắm",
+        "trọn",
+        "vẹn",
+        "niềm",
+        "thương"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt aí ơi thật sự mình\nnghĩa là gì khi mình đếm ạ ơi\ncó cần thêm vài câu cho\nchính xác hơn nữa không ạ ơi ơi",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 0.0,
+     "overall": 57.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt aí ơi thật sự mình",
+       "syllables": [
+        "ạt",
+        "aí",
+        "ơi",
+        "thật",
+        "sự",
+        "mình"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "nghĩa là gì khi mình đếm ạ ơi",
+       "syllables": [
+        "nghĩa",
+        "là",
+        "gì",
+        "khi",
+        "mình",
+        "đếm",
+        "ạ",
+        "ơi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "có cần thêm vài câu cho",
+       "syllables": [
+        "có",
+        "cần",
+        "thêm",
+        "vài",
+        "câu",
+        "cho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chính xác hơn nữa không ạ ơi ơi",
+       "syllables": [
+        "chính",
+        "xác",
+        "hơn",
+        "nữa",
+        "không",
+        "ạ",
+        "ơi",
+        "ơi"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn hào rùa mỏ dê thằn\nhổn hào rùa mỏ dê thằn lái xe\nhổn hào rùa mỏ dê thằn\nhổn hào rùa mỏ dê thằn lái xe",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 100.0,
+     "rma": 66.67,
+     "overall": 90.0,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn hào rùa mỏ dê thằn",
+       "syllables": [
+        "hổn",
+        "hào",
+        "rùa",
+        "mỏ",
+        "dê",
+        "thằn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổn hào rùa mỏ dê thằn lái xe",
+       "syllables": [
+        "hổn",
+        "hào",
+        "rùa",
+        "mỏ",
+        "dê",
+        "thằn",
+        "lái",
+        "xe"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổn hào rùa mỏ dê thằn",
+       "syllables": [
+        "hổn",
+        "hào",
+        "rùa",
+        "mỏ",
+        "dê",
+        "thằn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổn hào rùa mỏ dê thằn lái xe",
+       "syllables": [
+        "hổn",
+        "hào",
+        "rùa",
+        "mỏ",
+        "dê",
+        "thằn",
+        "lái",
+        "xe"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "reo nghèn ngà nước mắt rơi\nchúc mừng sinh nhật người ơi ngày vui\nhoa hồng thắm sắc môi cười\nsinh nhật tròn ngời như trời rạng ngời",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 66.67,
+     "overall": 81.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "reo nghèn ngà nước mắt rơi",
+       "syllables": [
+        "reo",
+        "nghèn",
+        "ngà",
+        "nước",
+        "mắt",
+        "rơi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc mừng sinh nhật người ơi ngày vui",
+       "syllables": [
+        "chúc",
+        "mừng",
+        "sinh",
+        "nhật",
+        "người",
+        "ơi",
+        "ngày",
+        "vui"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hoa hồng thắm sắc môi cười",
+       "syllables": [
+        "hoa",
+        "hồng",
+        "thắm",
+        "sắc",
+        "môi",
+        "cười"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sinh nhật tròn ngời như trời rạng ngời",
+       "syllables": [
+        "sinh",
+        "nhật",
+        "tròn",
+        "ngời",
+        "như",
+        "trời",
+        "rạng",
+        "ngời"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghe nho nhỏ nhè\nchúc mừng sinh nhật em xinh nhất mà\nnhớ ngày đầu tiên tình ta\nrạng rỡ niềm vui như sương mai hồng",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 33.33,
+     "overall": 71.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghe nho nhỏ nhè",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghe",
+        "nho",
+        "nhỏ",
+        "nhè"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chúc mừng sinh nhật em xinh nhất mà",
+       "syllables": [
+        "chúc",
+        "mừng",
+        "sinh",
+        "nhật",
+        "em",
+        "xinh",
+        "nhất",
+        "mà"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "nhớ ngày đầu tiên tình ta",
+       "syllables": [
+        "nhớ",
+        "ngày",
+        "đầu",
+        "tiên",
+        "tình",
+        "ta"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "rạng rỡ niềm vui như sương mai hồng",
+       "syllables": [
+        "rạng",
+        "rỡ",
+        "niềm",
+        "vui",
+        "như",
+        "sương",
+        "mai",
+        "hồng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "reo bot lỗi rồi nha bạn\nhiếu thương thật sự mà thấu hiểu nên\nchúng ta mới có những kho\nbài thơ ý nghĩa này nhỉ huhu buồn",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 71.43,
+     "rma": 0.0,
+     "overall": 61.43,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "reo bot lỗi rồi nha bạn",
+       "syllables": [
+        "reo",
+        "bot",
+        "lỗi",
+        "rồi",
+        "nha",
+        "bạn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu thương thật sự mà thấu hiểu nên",
+       "syllables": [
+        "hiếu",
+        "thương",
+        "thật",
+        "sự",
+        "mà",
+        "thấu",
+        "hiểu",
+        "nên"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "chúng ta mới có những kho",
+       "syllables": [
+        "chúng",
+        "ta",
+        "mới",
+        "có",
+        "những",
+        "kho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "bài thơ ý nghĩa này nhỉ huhu buồn",
+       "syllables": [
+        "bài",
+        "thơ",
+        "ý",
+        "nghĩa",
+        "này",
+        "nhỉ",
+        "huhu",
+        "buồn"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "prompt": "viết bài thơ lục bát 4 câu về cây đa giếng nước",
+  "metadata": {
+   "chủ đề": "viết bài thơ lục bát 4 câu về cây đa giếng nước",
+   "số câu": 4,
+   "từ khoá": [
+    "cây",
+    "đa",
+    "giếng",
+    "nước"
+   ],
+   "vần gợi ý": null
+  },
+  "candidates": [
+   {
+    "poem": "reo nghèn ngà nở giữa vườn\ngiếng sâu nước đục mưa mua hàng năm\nđêm khuya đa cổ gật đầu\ncây già xòe lá bóng râm thầm thì",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 0.0,
+     "overall": 67.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "reo nghèn ngà nở giữa vườn",
+       "syllables": [
+        "reo",
+        "nghèn",
+        "ngà",
+        "nở",
+        "giữa",
+        "vườn"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "giếng sâu nước đục mưa mua hàng năm",
+       "syllables": [
+        "giếng",
+        "sâu",
+        "nước",
+        "đục",
+        "mưa",
+        "mua",
+        "hàng",
+        "năm"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "đêm khuya đa cổ gật đầu",
+       "syllables": [
+        "đêm",
+        "khuya",
+        "đa",
+        "cổ",
+        "gật",
+        "đầu"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cây già xòe lá bóng râm thầm thì",
+       "syllables": [
+        "cây",
+        "già",
+        "xòe",
+        "lá",
+        "bóng",
+        "râm",
+        "thầm",
+        "thì"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ượu rượi ngào ngạt hương đồng\ncây đa bóng mướt giữa lòng giếng sâu\nnước trong xanh ngắt trăng hao\ngiếng xưa lặng lẽ gọi nhau nhớ ngày",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 92.86,
+     "rma": 33.33,
+     "overall": 77.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ượu rượi ngào ngạt hương đồng",
+       "syllables": [
+        "ượu",
+        "rượi",
+        "ngào",
+        "ngạt",
+        "hương",
+        "đồng"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cây đa bóng mướt giữa lòng giếng sâu",
+       "syllables": [
+        "cây",
+        "đa",
+        "bóng",
+        "mướt",
+        "giữa",
+        "lòng",
+        "giếng",
+        "sâu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "nước trong xanh ngắt trăng hao",
+       "syllables": [
+        "nước",
+        "trong",
+        "xanh",
+        "ngắt",
+        "trăng",
+        "hao"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "giếng xưa lặng lẽ gọi nhau nhớ ngày",
+       "syllables": [
+        "giếng",
+        "xưa",
+        "lặng",
+        "lẽ",
+        "gọi",
+        "nhau",
+        "nhớ",
+        "ngày"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hởn ơi hởn ơi thảnh thơi\ncây đa giếng nước đã mài gầy lâu\ngầy lâu nay gió thoảng khoe\nđất trời mưa nắng chẳng thào lời xót",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 0.0,
+     "overall": 65.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hởn ơi hởn ơi thảnh thơi",
+       "syllables": [
+        "hởn",
+        "ơi",
+        "hởn",
+        "ơi",
+        "thảnh",
+        "thơi"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cây đa giếng nước đã mài gầy lâu",
+       "syllables": [
+        "cây",
+        "đa",
+        "giếng",
+        "nước",
+        "đã",
+        "mài",
+        "gầy",
+        "lâu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 4,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "gầy lâu nay gió thoảng khoe",
+       "syllables": [
+        "gầy",
+        "lâu",
+        "nay",
+        "gió",
+        "thoảng",
+        "khoe"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "đất trời mưa nắng chẳng thào lời xót",
+       "syllables": [
+        "đất",
+        "trời",
+        "mưa",
+        "nắng",
+        "chẳng",
+        "thào",
+        "lời",
+        "xót"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổng có gì để sáng tạo\nhổng có gì để sáng tạo đây nha\nhổng có gì để sáng tạo\nhổng có gì để sáng tạo đây nha",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 42.86,
+     "rma": 66.67,
+     "overall": 72.86,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổng có gì để sáng tạo",
+       "syllables": [
+        "hổng",
+        "có",
+        "gì",
+        "để",
+        "sáng",
+        "tạo"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng có gì để sáng tạo đây nha",
+       "syllables": [
+        "hổng",
+        "có",
+        "gì",
+        "để",
+        "sáng",
+        "tạo",
+        "đây",
+        "nha"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hổng có gì để sáng tạo",
+       "syllables": [
+        "hổng",
+        "có",
+        "gì",
+        "để",
+        "sáng",
+        "tạo"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hổng có gì để sáng tạo đây nha",
+       "syllables": [
+        "hổng",
+        "có",
+        "gì",
+        "để",
+        "sáng",
+        "tạo",
+        "đây",
+        "nha"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổn loạn vì bị yêu cầu\nhiếu thảo vì được yêu cầu làm việc\nhở ngang vì quá trình làm\nhồng hào vì hoàn thành công việc theo",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 33.33,
+     "overall": 69.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổn loạn vì bị yêu cầu",
+       "syllables": [
+        "hổn",
+        "loạn",
+        "vì",
+        "bị",
+        "yêu",
+        "cầu"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu thảo vì được yêu cầu làm việc",
+       "syllables": [
+        "hiếu",
+        "thảo",
+        "vì",
+        "được",
+        "yêu",
+        "cầu",
+        "làm",
+        "việc"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "hở ngang vì quá trình làm",
+       "syllables": [
+        "hở",
+        "ngang",
+        "vì",
+        "quá",
+        "trình",
+        "làm"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hồng hào vì hoàn thành công việc theo",
+       "syllables": [
+        "hồng",
+        "hào",
+        "vì",
+        "hoàn",
+        "thành",
+        "công",
+        "việc",
+        "theo"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ạt nghèn nghe tiếc nuối nho\ncây đa giếng nước xanh xao năm tháng\nbóng trăng hắt bóng rêu sương\nsông dài nhớ cố hương thương vẫn qu",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 85.71,
+     "rma": 66.67,
+     "overall": 85.71,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ạt nghèn nghe tiếc nuối nho",
+       "syllables": [
+        "ạt",
+        "nghèn",
+        "nghe",
+        "tiếc",
+        "nuối",
+        "nho"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cây đa giếng nước xanh xao năm tháng",
+       "syllables": [
+        "cây",
+        "đa",
+        "giếng",
+        "nước",
+        "xanh",
+        "xao",
+        "năm",
+        "tháng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "bóng trăng hắt bóng rêu sương",
+       "syllables": [
+        "bóng",
+        "trăng",
+        "hắt",
+        "bóng",
+        "rêu",
+        "sương"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "sông dài nhớ cố hương thương vẫn qu",
+       "syllables": [
+        "sông",
+        "dài",
+        "nhớ",
+        "cố",
+        "hương",
+        "thương",
+        "vẫn",
+        "qu"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "hổ mang chàm cắn thằng hổ\nhồ tiêu rau muống nướng trấu mèn gõ\nsữa dừa mẹ cho uống nhiều\nchim vàng mã trắng xóm trung quê ta",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 64.29,
+     "rma": 0.0,
+     "overall": 59.29,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "hổ mang chàm cắn thằng hổ",
+       "syllables": [
+        "hổ",
+        "mang",
+        "chàm",
+        "cắn",
+        "thằng",
+        "hổ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hồ tiêu rau muống nướng trấu mèn gõ",
+       "syllables": [
+        "hồ",
+        "tiêu",
+        "rau",
+        "muống",
+        "nướng",
+        "trấu",
+        "mèn",
+        "gõ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "sữa dừa mẹ cho uống nhiều",
+       "syllables": [
+        "sữa",
+        "dừa",
+        "mẹ",
+        "cho",
+        "uống",
+        "nhiều"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 2,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "chim vàng mã trắng xóm trung quê ta",
+       "syllables": [
+        "chim",
+        "vàng",
+        "mã",
+        "trắng",
+        "xóm",
+        "trung",
+        "quê",
+        "ta"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   },
+   {
+    "poem": "ãi in theo yêu cầu của\nhiếu hận vì chưa hoàn thành nhiệm vụ\ntôi xin sáng tác bài thơ\ncây đa cổ thụ dáng nghiêng ngả bóng",
+    "eval": {
+     "scr": 100.0,
+     "tcr": 57.14,
+     "rma": 0.0,
+     "overall": 57.14,
+     "is_valid_lucbat": false,
+     "num_lines": 4,
+     "lines": [
+      {
+       "text": "ãi in theo yêu cầu của",
+       "syllables": [
+        "ãi",
+        "in",
+        "theo",
+        "yêu",
+        "cầu",
+        "của"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "hiếu hận vì chưa hoàn thành nhiệm vụ",
+       "syllables": [
+        "hiếu",
+        "hận",
+        "vì",
+        "chưa",
+        "hoàn",
+        "thành",
+        "nhiệm",
+        "vụ"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 1,
+       "mandatory_positions": 4
+      },
+      {
+       "text": "tôi xin sáng tác bài thơ",
+       "syllables": [
+        "tôi",
+        "xin",
+        "sáng",
+        "tác",
+        "bài",
+        "thơ"
+       ],
+       "count": 6,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 3
+      },
+      {
+       "text": "cây đa cổ thụ dáng nghiêng ngả bóng",
+       "syllables": [
+        "cây",
+        "đa",
+        "cổ",
+        "thụ",
+        "dáng",
+        "nghiêng",
+        "ngả",
+        "bóng"
+       ],
+       "count": 8,
+       "is_correct_length": true,
+       "correct_positions": 3,
+       "mandatory_positions": 4
+      }
+     ]
+    }
+   }
+  ]
+ }
+]

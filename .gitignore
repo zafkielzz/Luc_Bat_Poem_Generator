@@ -1,0 +1,53 @@
+# Local agent/editor state
+.agents/
+.claude/
+.gemini/
+.vscode/
+.idea/
+
+# Python and build caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+unsloth_compiled_cache/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Private/raw/training data and generated model artifacts
+data/raw/
+data/sft/
+data/evaluation/
+data/assets/*.pt
+data/assets/*.bin
+data/assets/*.safetensors
+outputs/
+experiments/
+*.log
+
+# Keep only the lightweight runtime assets needed to rebuild/use the engine.
+!data/cliches.txt
+!data/assets/
+!data/assets/syllables.json
+!data/assets/meta.json
+!data/processed/
+!data/processed/clean_rhyme_dictionary.json
+
+# Keep public-facing documentation; ignore internal session notes by default.
+*.md
+!README.md
+!PROJECT_DIRECTION.md
+!docs/
+!docs/*.md
+!frontend/README.md
+
+# Local handoff and operating notes
+AGENTS.md
+CODEX_HANDOFF_*.md
+COMPLETION_PLAN.md
+DEVLOG.md
+data/processed/*
+!data/processed/clean_rhyme_dictionary.json

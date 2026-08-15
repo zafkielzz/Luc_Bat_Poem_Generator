@@ -1,0 +1,30 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+# PyTorch with CUDA Support (env capstone thực tế: 2.11.0+cu130, CUDA 13.0)
+torch>=2.4.0
+torchvision
+torchaudio
+
+# Hugging Face & Model Acceleration
+transformers>=4.40.0
+accelerate>=0.30.0
+bitsandbytes>=0.43.0
+safetensors>=0.4.0
+
+# Vietnamese NLP & Tokenization
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+pyvi>=0.1.1
+
+# Evaluation, Data & Utilities
+numpy>=1.26.0
+pandas>=2.0.0
+tqdm>=4.66.0
+pytest>=8.0.0
+
+# SFT (Task 2.1/2.2 — HOÃN, cài sẵn cho lượt sau)
+# Đã có trong env capstone (unsloth 2026.8.7). Pilot QLoRA: 500-1000 mẫu, 1 epoch, r=16.
+unsloth
+
+# Demo bảo vệ (Phase F — HOÃN): sinh thơ end-to-end + máy phân tích luật
+gradio

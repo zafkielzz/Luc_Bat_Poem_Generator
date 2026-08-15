@@ -1,0 +1,14 @@
+{
+  "version": "pilot-qlora-v1",
+  "model": "/media/zafkiel/WORK_SPACE2/models/Qwen3-8B",
+  "train": "data/sft/pilot_train_v1.jsonl",
+  "dev": "data/sft/pilot_dev_v1.jsonl",
+  "seed": 42,
+  "max_seq_length": 256,
+  "epochs": 1,
+  "learning_rate": 0.0002,
+  "per_device_train_batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "lora": {"r": 16, "alpha": 16, "dropout": 0},
+  "assistant_only_loss": true
+}
