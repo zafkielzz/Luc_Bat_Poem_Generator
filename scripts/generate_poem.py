@@ -98,7 +98,6 @@ def build_prompt(metadata: dict) -> str:
         parts.append(f"Từ khoá: {', '.join(metadata['từ khoá'])}")
     if metadata.get("vần gợi ý"):
         parts.append(f"Vần gợi ý: {metadata['vần gợi ý']}")
-    parts.append("Sáng tác trực tiếp bài thơ, không giải thích, không suy luận.")
     return "\n".join(parts)
 
 
